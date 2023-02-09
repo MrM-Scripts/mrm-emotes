@@ -20,6 +20,7 @@
 - 📦 500+ Prop Emotes.
 - 💃🏼 400+ Poses & Signs.
 - 🕺🏼 200+ Dance Emotes.
+- 👙 150+ Adult Emotes.
 - 😍 150+ Moods & Walking Styles
 - 💋 100+ Shared Emotes.
 - 🔒 Emote Spam Protection.
